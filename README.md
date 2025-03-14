@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project provides an in-depth analysis of a pizza sales dataset covering January to December 2015. The goal is to uncover key insights into business performance, identify growth opportunities, and highlight areas needing improvement. Through the examination of various key performance indicators (KPIs), this report offers data-driven recommendations to optimize sales across different segments.
 
 🔑 Key Findings
